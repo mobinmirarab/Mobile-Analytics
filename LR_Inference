@@ -1,0 +1,26 @@
+I have worked on the linear regression model to find correlation between the different genre and the features.
+Here are my findings:
+1. Games are most positively dependant on nymber of screenshots, price and content rating of 4+, -vely affected by content rating of 17+ and 9+.
+2. Education apps are most popular with content rating of 12+, 4+ and number of screenshots, -vely affected by content rating of 17+ and number of devices supported.
+3. Productivity apps are most popular with content rating of 12+, 4+ and price, -vely affected by content rating of 17+ and number of screenshots. 
+3. Weather	Shopping apps are most dependant on price, number of languages and rating count of current version, -vely affected by content rating of 4+, 12+ and number of screenshots. 
+4. Shopping apps are most popular due to number of screen shots, rating count of current version and -vely affected by content rating of 17+.
+5. Reference apps are most dependant on content rating of 12+, screenshots, number of devides supported and -vely by content rating of 9+ and 17+.
+6. Finance apps are most closely affected by the content rating of 17+ and num of devices supported and -vely affected by content of 12+ and num of languages supported.
+7. Music apps are mostly affected by content rating of 4+ and 9+ and -vely affected by content rating of 17+ and num of devices supported.
+8. Utilities apps are closely related to num of languages supported and adversely by content rating of 12+ and num of screen shots.
+9. Travel apps are mostly dependant on num of screen shots adversely affected by content rating of 12+ and 4+.
+10. Social Networking apps are mostly affected by content rating of 4+ and -vely by rating of 9+ and 17+.
+11. Sports apps are mostly affected by rating of 17+ and 4+ and strongly -vely by rating of 9+ and num of screenshots.
+12. Business apps are mostly affected by num of screen shots and -vely by content rating of 4+.
+13. Health & Fitness apps are mostly affected by Price and num of screen shots and -vely by content rating of 9+.
+14. Entertainment apps are mostly affected by num of screenshots and -vely by content rating of 17+.
+15. Photo & Video apps are mostly affected by num of screen shots and -vely by content rating of 17+.
+16. Navigation apps are mostly affected by content rating of 4+ and -vely by 12+.
+17. Lifestyle apps are mostly affected by num of screenshots and adversely by content rating of 17+.
+18. Food & Drink apps are mostly affected by num of screenshots and aadversly by contnent rating of 17+.
+19. News apps are mostly affected by price and num of screen shots and -vely by content rating of 17+ and 9+.
+20. Book apps are mostly affected by num of screen shots and adversely by content rating of 9+.
+21. Medical	apps are mostly affected by content rating of 4+ and adversely by content rating of 17+.
+22. Catalogs apps are advesely affected by content rating of 17+.
+
